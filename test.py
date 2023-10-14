@@ -12,3 +12,7 @@
 # comparativo <
 
 # Guarda archivo con CTRL + S
+
+def hi(name):
+    print(f "hi(name)")
+    hi("Mariana")
